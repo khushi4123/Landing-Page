@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero_section {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/024/570/187/small/young-man-playing-computer-games-at-night-in-dark-room-gaming-gamers-concept-a-gamer-boy-full-rear-view-playing-in-a-computer-ai-generated-free-photo.jpg");
+    background-position: center;
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text_container {
+    color: white;
+    padding-top: 10%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.lg_text {
+    font-size: 62px;
+}
+
+.text_container h1 {
+
+    font-size: 52px;
+
+}
+
+.black_box {
+    background-color: black;
+    color: white;
+    padding: 3%;
+    text-align: center;
+
+}
+
+.big {
+    font-size: 62px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+.work {
+
+    margin: 50px 50px;
+    gap: 20px;
+    max-width: 1100px;
+    display: flex;
+    padding-left: 300px;
+}
+
+.card {
+    max-width: 272px;
+    height: 410px;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.card2 {
+    max-width: 244px;
+    height: 410px;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+}
+
+.card3 {
+    max-width: 276px;
+    height: 410px;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+    border-radius: 10px;
+    transition: 0.2s ease-in-out;
+
+}
+
+
+
+.content {
+    padding: 10px;
+
+}
+
+.content h1 {
+    margin-top: 15px;
+}
+
+.card:hover {
+    transform: scale(1.04);
+    transition: 0.2s ease-in-out;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+}
+
+.card2:hover {
+    transform: scale(1.04);
+    transition: 0.2s ease-in-out;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+}
+
+.card3:hover {
+    transform: scale(1.04);
+    transition: 0.2s ease-in-out;
+    box-shadow: 3px 3px 5px rgba(1, 1, 1, 0.3);
+}
+
+.contact {
+    padding: 10px 10% 10% 5px;
+    background-color: green;
+    color: white;
+}
+
+.about {
+    padding: 10px 10% 10% 5px;
+    background-color: maroon;
+    color: white;
+}
+
+.bottom_section {
+    display: flex;
+    height: 300px;
+
+}
+
+.contact h1 {
+    font-size: 42px;
+    padding: 10px;
+}
+
+.about h1 {
+    font-size: 42px;
+    padding: 10px;
+}
+
+.contact p {
+
+    padding: 10px;
+}
+
+.about p {
+
+    padding: 10px;
+}
+
+.last {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
